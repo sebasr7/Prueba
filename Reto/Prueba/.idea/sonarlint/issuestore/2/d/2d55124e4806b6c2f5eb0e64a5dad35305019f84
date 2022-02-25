@@ -1,0 +1,8 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ºª‚å
+®
+java:S1598"—This file "RegisterPage3.java" should be located in "co\com\choucair\uTest\userinterfaces" directory, not in "C:\Users\slondonoc\Desktop\reto kevin banco\Reto%20Bancolombia%2010%20de%20Marzo\src\main\java\co.com.choucair.uTest\userinterfaces"(Do not use dots in directory names).(ºª‚å
+U
+java:S1118":Add a private constructor to hide the implicit public one.(í£•™úÿÿÿÿ
+W
+java:S3252"<Use static access with "org.openqa.selenium.By" for "xpath".(Ø´Øúÿÿÿÿ

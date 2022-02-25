@@ -1,0 +1,4 @@
+
+ 
+java:S1598"„This file "RegisterUser.java" should be located in "co\com\choucair\uTest\model" directory, not in "C:\Users\slondonoc\Desktop\reto kevin banco\Reto%20Bancolombia%2010%20de%20Marzo\src\main\java\co.com.choucair.uTest\model"(Do not use dots in directory names).(Èœ‡‰úÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Èœ‡‰úÿÿÿÿ
