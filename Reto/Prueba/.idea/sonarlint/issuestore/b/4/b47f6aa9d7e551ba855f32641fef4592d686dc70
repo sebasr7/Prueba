@@ -1,0 +1,8 @@
+
+]
+java:S1128
+"BRemove this unused import 'net.serenitybdd.screenplay.waits.Wait'.(Èø€®øÿÿÿÿ
+›
+java:S1598"ÿThis file "LoginOn.java" should be located in "co\com\choucair\uTest\tasks" directory, not in "C:\Users\slondonoc\Desktop\reto kevin banco\Reto%20Bancolombia%2010%20de%20Marzo\src\main\java\co.com.choucair.uTest\tasks"(Do not use dots in directory names).(Âõç‚ûÿÿÿÿ
+c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™Þ‹å
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Âõç‚ûÿÿÿÿ

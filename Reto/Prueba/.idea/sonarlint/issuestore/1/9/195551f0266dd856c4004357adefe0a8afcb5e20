@@ -1,0 +1,4 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ихан
+а
+java:S1598"ЙThis file "LaRespuesta.java" should be located in "co\com\choucair\uTest\question" directory, not in "C:\Users\slondonoc\Desktop\reto kevin banco\Reto%20Bancolombia%2010%20de%20Marzo\src\main\java\co.com.choucair.uTest\question"(Do not use dots in directory names).(Ихан

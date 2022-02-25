@@ -1,0 +1,7 @@
+
+c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹Ï®™
+^
+java:S1128"CRemove this unused import 'net.serenitybdd.screenplay.Performable'.(ð”„Îüÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Âõç‚ûÿÿÿÿ
+™
+java:S1598"ýThis file "Abrir.java" should be located in "co\com\choucair\uTest\tasks" directory, not in "C:\Users\slondonoc\Desktop\reto kevin banco\Reto%20Bancolombia%2010%20de%20Marzo\src\main\java\co.com.choucair.uTest\tasks"(Do not use dots in directory names).(Âõç‚ûÿÿÿÿ
